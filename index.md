@@ -26,10 +26,9 @@ classes: wide
 &nbsp; &nbsp;
   
   
-|Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-|  Transporte. | Inexistente  |  *[Repositorio](https://github.com/opencitydata/vocab-transporte-censo-vehiculos)*   | *[Generar Issue](https://github.com/opencitydata/vocab-transporte-censo-vehiculos/issues)*  |  Relación del padrón de vehículos censados en el municipio en el año. Incluyendo vehículos de cualquier tipo: Ciclomotores, Motocicletas, Semi Remolques, Remolques, Tractores, Autobuses, Camiones, Turismos.
-   |    |    |     |     |       |
+|Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+|  Transporte. | Inexistente  |  *[Repositorio](https://github.com/opencitydata/vocab-transporte-censo-vehiculos)*   | *[Generar Issue](https://github.com/opencitydata/vocab-transporte-censo-vehiculos/issues)*  |  Relación del padrón de vehículos censados en el municipio en el año. Incluyendo vehículos de cualquier tipo: Ciclomotores, Motocicletas, Semi Remolques, Remolques, Tractores, Autobuses, Camiones, Turismos.   |   
  
   
 
